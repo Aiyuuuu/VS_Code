@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.card_div{
+    width: 360px;
+    border: 2px solid rgba(32, 88, 126, 0.2);
+    border-radius: 12px;
+    height: 550px;
+    position: relative;
+    top: 10vh;
+    margin: auto;
+    background-color: white;
+    
+}
+
+img{
+    padding: 6px;
+    
+}
+
+button{
+    
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin:7px;
+    border-radius: 12px;
+    color: rgba(0, 0, 0, 0.575);
+    border:2px solid rgba(0, 0, 0, 0.082);
+    background-color: white;
+    font-weight: 600;
+}
+#nature{
+    margin-left: 20px;
+    margin-right: 0px;
+}
+h1{
+    font-family: "Open Sans", sans-serif;
+    margin-left: 18px;
+    margin-top: 10px;
+    font-size: 30px;
+    color: rgba(21, 23, 43, 0.877);
+}
+p{
+    margin-top: 15px;
+    margin-left: 20px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.575);
+    font-weight: 600;
+}
+
+#read_more{
+    position: absolute;
+    top: 480px;
+    left: 100px;
+    border:0px;
+    background-color: rgb(211, 242, 250);
+    border-radius: 50px;
+    padding: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: rgb(16, 165, 224);
+    font-weight: 600;
+    
+}
+
+button:hover{
+    background-color: aliceblue;
+    cursor: pointer;
+    
+}
+
+#read_more:hover{
+    background-color: rgb(215, 234, 252);
+    cursor: pointer;
+}
+
+#read_more:active{
+    outline: 2px solid rgb(175, 175, 255);
+    background-color: rgb(255, 255, 255);
+}
+
+button:active{
+    outline: 2px solid rgb(175, 175, 255);
+    background-color: rgb(255, 255, 255);
+}
+
+body{
+    background-color: gray;
+}
+
+        
+    
+
