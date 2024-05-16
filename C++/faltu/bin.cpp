@@ -26,8 +26,9 @@ int main() {
     cin >> binStr;
 
     // Convert binary string to integer
-    int bin = (binStr, 0, 2);
+    // int bin = (binStr, 0, 2);
 
-    obj.BinToDecimal(bin);
-    return 0;
+//     obj.BinToDecimal(bin);
+//     return 0;
+// }
 }
